@@ -1,0 +1,496 @@
+Dec 26, 2022 9:28:46 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 9:28:46 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 9:28:47 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:28:47 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 965 ms
+Dec 26, 2022 9:28:47 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 9:28:47 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 9:28:47 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 9:28:48 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 9:28:52 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 9:28:52 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 9:28:53 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:28:53 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 9:28:53 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/35  config=null
+Dec 26, 2022 9:28:53 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 9:28:53 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 6335 ms
+Dec 26, 2022 9:31:37 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:31:38 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 9:31:38 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:31:38 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 9:50:59 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 9:51:00 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 9:51:00 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:51:00 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 428 ms
+Dec 26, 2022 9:51:00 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 9:51:00 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 9:51:00 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 9:51:00 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 9:51:03 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 9:51:03 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 9:51:03 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:51:03 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 9:51:03 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/10  config=null
+Dec 26, 2022 9:51:03 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 9:51:03 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3236 ms
+Dec 26, 2022 9:51:37 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:51:38 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 9:51:38 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:51:38 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 9:51:50 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 9:51:51 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 9:51:51 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:51:51 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 703 ms
+Dec 26, 2022 9:51:51 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 9:51:51 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 9:51:51 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 9:51:51 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 9:51:54 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 9:51:54 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 9:51:54 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:51:54 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 9:51:54 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/29  config=null
+Dec 26, 2022 9:51:54 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 9:51:54 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3726 ms
+Dec 26, 2022 9:52:24 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:52:25 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 9:52:25 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:52:25 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 9:53:07 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 9:53:07 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 9:53:07 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:53:07 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 280 ms
+Dec 26, 2022 9:53:07 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 9:53:07 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 9:53:07 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 9:53:08 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 9:53:10 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 9:53:10 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 9:53:10 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:53:10 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 9:53:10 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/10  config=null
+Dec 26, 2022 9:53:10 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 9:53:10 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2743 ms
+Dec 26, 2022 9:53:36 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:53:37 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 9:53:37 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:53:37 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 9:57:48 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 9:57:48 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 9:57:48 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:57:48 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 436 ms
+Dec 26, 2022 9:57:49 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 9:57:49 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 9:57:49 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 9:57:49 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 9:57:51 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 9:57:51 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 9:57:51 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:57:52 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 9:57:52 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/23  config=null
+Dec 26, 2022 9:57:52 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 9:57:52 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3193 ms
+Dec 26, 2022 9:58:48 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:58:49 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 9:58:49 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 9:58:49 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 10:00:59 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 10:00:59 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 10:00:59 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:00:59 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 394 ms
+Dec 26, 2022 10:00:59 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 10:00:59 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 10:00:59 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 10:01:00 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 10:01:02 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 10:01:02 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 10:01:02 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:01:03 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 10:01:03 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/45  config=null
+Dec 26, 2022 10:01:03 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 10:01:03 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3689 ms
+Dec 26, 2022 10:01:19 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:01:20 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 10:01:20 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:01:20 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 10:03:40 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 10:03:41 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 10:03:41 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:03:41 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 429 ms
+Dec 26, 2022 10:03:41 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 10:03:41 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 10:03:41 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 10:03:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 10:03:44 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 10:03:44 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 10:03:44 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:03:44 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 10:03:44 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/67  config=null
+Dec 26, 2022 10:03:44 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 10:03:44 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3429 ms
+Dec 26, 2022 10:05:49 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:05:50 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 10:05:50 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:05:50 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 10:05:52 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 10:05:52 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 10:05:52 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:05:52 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 359 ms
+Dec 26, 2022 10:05:52 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 10:05:52 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 10:05:52 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 10:05:53 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 10:05:55 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 10:05:55 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 10:05:55 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:05:55 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 10:05:55 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/40  config=null
+Dec 26, 2022 10:05:55 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 10:05:55 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3150 ms
+Dec 26, 2022 10:06:22 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:06:23 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 10:06:23 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:06:23 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 10:07:56 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 10:07:56 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 10:07:56 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:07:56 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 399 ms
+Dec 26, 2022 10:07:56 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 10:07:56 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 10:07:56 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 10:07:57 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 10:07:59 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 10:07:59 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 10:07:59 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:07:59 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 10:07:59 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/25  config=null
+Dec 26, 2022 10:07:59 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 10:07:59 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2942 ms
+Dec 26, 2022 10:08:03 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:08:04 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 10:08:04 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:08:04 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 10:08:09 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 10:08:09 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 10:08:09 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:08:09 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 355 ms
+Dec 26, 2022 10:08:10 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 10:08:10 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 10:08:10 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 10:08:10 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 10:08:12 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 10:08:12 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 10:08:12 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:08:12 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 10:08:12 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/11  config=null
+Dec 26, 2022 10:08:12 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 10:08:12 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 3121 ms
+Dec 26, 2022 10:08:26 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:08:27 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 10:08:27 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:08:27 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 10:08:53 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 10:08:54 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 10:08:54 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:08:54 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 411 ms
+Dec 26, 2022 10:08:54 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 10:08:54 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 10:08:54 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 10:08:54 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 10:08:56 AM org.apache.catalina.core.StandardContext start
+SEVERE: Error listenerStart
+Dec 26, 2022 10:08:56 AM org.apache.catalina.core.StandardContext start
+SEVERE: Context [/openreports] startup failed due to previous errors
+Dec 26, 2022 10:08:56 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:08:56 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 10:08:56 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/21  config=null
+Dec 26, 2022 10:08:56 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 10:08:57 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 2911 ms
+Dec 26, 2022 10:09:01 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:09:02 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 10:09:02 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:09:02 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
+Dec 26, 2022 10:09:23 AM org.apache.catalina.startup.Embedded initDirs
+SEVERE: Cannot find specified temporary folder at tomcat/temp
+Dec 26, 2022 10:09:24 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+Dec 26, 2022 10:09:24 AM org.apache.coyote.http11.Http11BaseProtocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:09:24 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 566 ms
+Dec 26, 2022 10:09:24 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Dec 26, 2022 10:09:24 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/5.5.25
+Dec 26, 2022 10:09:24 AM org.apache.catalina.core.StandardHost start
+INFO: XML validation disabled
+Dec 26, 2022 10:09:24 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive openreports.war
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.api.impl.ReportEngine <init>
+FINE: ReportEngine created. EngineConfig: EngineConfig: logDest=<null>;logLevel=ALL;org.eclipse.birt.report.engine.api.EngineConfig.scriptObjects={};BIRT_HOME=;PLATFORM_CONTEXT=org.eclipse.birt.core.framework.PlatformServletContext@408613cc;org.eclipse.birt.report.engine.api.EngineConfig.emitterConfigs={html=org.eclipse.birt.report.engine.api.HTMLRenderOption@325f7fa9}; 
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemGeneration
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadGenerationExtensionDefns
+FINE: Load generation extension: Chart
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemPresentation
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadPresentationExtensionDefns
+FINE: Load prsentation extension: Chart
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemQuery
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadQueryExtensionDefns
+FINE: Load query extension: Chart
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.emitters
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load xls emitter org.eclipse.birt.report.engine.emitter.prototype.excel
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load html emitter org.eclipse.birt.report.engine.emitter.html
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load pdf emitter org.eclipse.birt.report.engine.emitter.pdf
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load doc emitter org.eclipse.birt.report.engine.emitter.word
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load postscript emitter org.eclipse.birt.report.engine.emitter.postscript
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load ppt emitter org.eclipse.birt.report.engine.emitter.ppt
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportEventHandler
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportItemPreparation
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.dataExtraction
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadDataExtractionExtensions
+FINE: Load data extraction extension: org.eclipse.birt.report.engine.dataextraction.csv
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.extendedItemFactory
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: Crosstab
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: CrosstabCell
+Dec 26, 2022 10:09:28 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: AggregationCell
+Dec 26, 2022 10:09:30 AM org.apache.coyote.http11.Http11BaseProtocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:09:30 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Dec 26, 2022 10:09:30 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/35  config=null
+Dec 26, 2022 10:09:30 AM org.apache.catalina.storeconfig.StoreLoader load
+INFO: Find registry server-registry.xml at classpath resource
+Dec 26, 2022 10:09:30 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5779 ms
+Dec 26, 2022 10:10:01 AM org.apache.coyote.http11.Http11BaseProtocol pause
+INFO: Pausing Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:10:02 AM org.apache.catalina.core.StandardService stop
+INFO: Stopping service Catalina
+Dec 26, 2022 10:10:08 AM org.apache.coyote.http11.Http11BaseProtocol destroy
+INFO: Stopping Coyote HTTP/1.1 on http-8080
+Dec 26, 2022 10:10:08 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: Failed shutdown of Apache Portable Runtime
