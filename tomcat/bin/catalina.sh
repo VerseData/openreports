@@ -54,7 +54,7 @@
 # $Id: catalina.sh 498126 2007-01-20 15:38:39Z markt $
 # -----------------------------------------------------------------------------
 
-JAVA_OPTS="-Xmx512m -XX:MaxPermSize:128m"
+JAVA_OPTS="-Xmx1024m -XX:MaxPermSize=1024m"
 
 # OS specific support.  $var _must_ be set to either true or false.
 cygwin=false

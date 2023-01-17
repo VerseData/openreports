@@ -1,0 +1,13 @@
+[Server@4617c264]: [Thread[main,5,main]]: checkRunning(false) entered
+[Server@4617c264]: [Thread[main,5,main]]: checkRunning(false) exited
+[Server@4617c264]: Startup sequence initiated from main() method
+[Server@4617c264]: Loaded properties from [/home/superset/projets/openreports/server.properties]
+[Server@4617c264]: Initiating startup sequence...
+[Server@4617c264]: Server socket opened successfully in 8 ms.
+[Server@4617c264]: Database [index=0, id=0, db=file:hsql/openreports, alias=openreports] opened sucessfully in 169 ms.
+[Server@4617c264]: Database [index=1, id=1, db=file:hsql/sample, alias=sample] opened sucessfully in 9 ms.
+[Server@4617c264]: Startup sequence completed in 196 ms.
+[Server@4617c264]: 2022-12-26 09:51:00.026 HSQLDB server 1.7.3 is online
+[Server@4617c264]: To close normally, connect and execute SHUTDOWN SQL
+[Server@4617c264]: From command line, use [Ctrl]+[C] to abort abruptly
+Killed
